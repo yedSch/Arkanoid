@@ -1,0 +1,9 @@
+# default values for blocks
+default height:190 width:270 stroke:color(red)
+
+# block definitions
+
+bdef symbol:p hit_points:12 fill-1:color(white) fill-2:image(eaten_pizza.jpg) fill-3:image(eaten_pizza.jpg) fill-4:image(eaten_pizza.jpg) fill-5:image(pizza.png) fill-6:image(pizza.png) fill-7:image(pizza.png) fill-8:image(pizza_box.png) fill-9:image(pizza_box.png) fill-10:image(pizza_box.png) fill-11:image(pizza_box.png) fill-12:image(pizza_box.png)
+
+# spacers definitions
+sdef symbol:- width:270

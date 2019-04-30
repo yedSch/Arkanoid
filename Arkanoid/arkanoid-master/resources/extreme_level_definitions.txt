@@ -1,0 +1,91 @@
+
+# Level 1
+# BIU CS Beach
+
+START_LEVEL
+level_name:BIU CS Beach
+ball_velocities:-60,400 -45,400 -30,400 -15,400 15,400 30,400 45,400 60,400
+background:image(beach.jpg)
+paddle_speed:750
+paddle_width:500
+block_definitions:beach_block_definitions.txt
+blocks_start_x:40
+blocks_start_y:100
+row_height:20
+num_blocks:82
+START_BLOCKS
+
+-
+-
+-
+-
+-
+ssss---ssss--ss--s-------sss---sssss
+ss--s---ss---ss--s------ss--s--ss---
+ssss----ss---ss--s-ssss-ss------sss-
+ss--s---ss---ss--s------ss--s-----ss
+ssss---ssss---sss--------sss---sssss
+
+END_BLOCKS
+END_LEVEL
+
+# Level 2
+# Pizza party
+
+START_LEVEL
+level_name:Pizza Party
+ball_velocities:30,400
+background:image(pizza_party.jpg)
+paddle_speed:650
+paddle_width:100
+block_definitions:pizza_block_definitions.txt
+blocks_start_x:270
+blocks_start_y:100
+row_height:140
+num_blocks:1
+START_BLOCKS
+
+
+p
+
+
+END_BLOCKS
+END_LEVEL
+
+# Level 3
+# Ori The King
+
+START_LEVEL
+level_name:Ori the king
+ball_velocities:30,400 -50,400 -52,400
+background:image(king.jpg)
+paddle_speed:650
+paddle_width:160
+block_definitions:king_block_definitions.txt
+blocks_start_x:20
+blocks_start_y:100
+row_height:20
+#check if num blocks is corrrect
+num_blocks:185
+START_BLOCKS
+
+----ggg---wwww---rrrrr-----------
+---gg-gg--ww--w---rrr------------
+---gg-gg--ww--w---rrr------------
+---gg-gg--wwww----rrr------------
+----ggg---ww--w--rrrrr-----------
+---------------------------------
+---ggggg--ww--w--rrrrr-----------
+----ggg---ww--w--rr--------------
+----ggg---wwwww--rrrrr-----------
+----ggg---ww--w--rr--------------
+----ggg---ww--w--rrrrr-----------
+---------------------------------
+---gg--g--wwwww--rr--r--bbbbb----
+---gg-g----www---rrr-r--bb-------
+---ggg-----www---rrrrr--bb--b----
+---gg-g----www---rr-rr--bb--b--bb
+---gg--g--wwwww--rr--r--bbbbb--bb
+
+END_BLOCKS
+END_LEVEL

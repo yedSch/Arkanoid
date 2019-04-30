@@ -1,0 +1,8 @@
+t:Taste & Test
+taste_level_definitions.txt
+e:Easy
+easy_level_definitions.txt
+h:Hard
+hard_level_definitions.txt
+x:Extreme
+extreme_level_definitions.txt

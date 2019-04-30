@@ -1,0 +1,31 @@
+
+START_LEVEL
+level_name:Taste & Test
+ball_velocities:61,400 52,400 43,400 34,400 25,400 16,400 -61,400 -52,400 -43,400 -34,400 -25,400 -16,400
+background:image(programmer.jpg)
+paddle_speed:650
+paddle_width:700
+block_definitions:standard_block_definitions.txt
+blocks_start_x:50
+blocks_start_y:95
+row_height:25
+num_blocks:168
+START_BLOCKS
+-------------
+-bbbbwwwwrrrr
+-bbbbwwwwrrrr
+-bbbbwwwwrrrr
+-bbbbwwwwrrrr
+-bbbbwwwwrrrr
+-bbbbwwwwrrrr
+-bbbbwwwwrrrr
+-bbbbwwwwrrrr
+-bbbbwwwwrrrr
+-bbbbwwwwrrrr
+-bbbbwwwwrrrr
+-bbbbwwwwrrrr
+-bbbbwwwwrrrr
+-bbbbwwwwrrrr
+-------------
+END_BLOCKS
+END_LEVEL
